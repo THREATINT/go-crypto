@@ -1,4 +1,4 @@
-# go-crypto
+# github.com/THREATINT/go-crypto
 
 ## Introduction
 
