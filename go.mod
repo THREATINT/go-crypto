@@ -1,4 +1,4 @@
-module github.com/THREATINT/go/crypto
+module github.com/THREATINT/go-crypto
 
 go 1.12
 
