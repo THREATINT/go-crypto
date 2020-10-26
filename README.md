@@ -16,3 +16,5 @@ This first version supports only a few cryptographic hash functions and will be 
 
 ## License
 Release under the MIT License. (see LICENSE)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0e80ecc4b2794e7e90de7d3f0a0c3adc)](https://www.codacy.com/gh/THREATINT/go-crypto/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=THREATINT/go-crypto&amp;utm_campaign=Badge_Grade)
