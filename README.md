@@ -7,12 +7,12 @@ This library aims to be taking care about all details without messing up your co
 This first version supports only a few cryptographic hash functions and will be extended over time.
 
 ### Hashing
--  MD5
--  SHA1
--  SHA256
--  SHA384
--  SHA512
--  RIPEMD160
+    - MD5 
+    - SHA1
+    - SHA256
+    - SHA384
+    - SHA512
+    - RIPEMD160
 
 ## License
 Release under the MIT License. (see LICENSE)
